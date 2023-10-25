@@ -1,0 +1,101 @@
+*{
+  box-sizing: border-box;
+}
+ul,li,a{
+  list-style: none;
+}
+/* header */
+.logo{
+  background-image: url('../public/image/Ajio-Logo.svg') ;
+  /* width: 180px; */
+  height: 38px;
+  background-repeat: no-repeat;
+}
+.guest-header {
+  float: right;
+  margin: 0 0 11px;
+  text-align: right;
+  line-height: 23px;
+}
+.guest-header ul li {
+  float: left;
+    margin-right: 16px;
+    color: #2c4152;
+    letter-spacing: .1em;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+.guest-header ul li button {
+  display:  inline;
+}
+
+/* product-details */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+body {
+  font-family: 'Manrope', sans-serif;
+  background:#eee;
+}
+
+.size span {
+  font-size: 11px;
+}
+
+.color span {
+  font-size: 11px;
+}
+
+.product-deta {
+  margin-right: 70px;
+}
+
+.gift-card:focus {
+  box-shadow: none;
+}
+
+.pay-button {
+  color: #fff;
+}
+
+.pay-button:hover {
+  color: #fff;
+}
+
+.pay-button:focus {
+  color: #fff;
+  box-shadow: none;
+}
+
+.text-grey {
+  color: #a39f9f;
+}
+
+.qty i {
+  font-size: 11px;
+}
+
+span {cursor:pointer; }
+.number{
+  margin:100px;
+}
+.minus, .plus{
+  width:20px;
+  height:20px;
+  background:#f2f2f2;
+  border-radius:4px;
+  padding:8px 5px 8px 5px;
+  border:1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+input{
+  height:34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+  border:1px solid #ddd;
+  border-radius:4px;
+  display: inline-block;
+  vertical-align: middle;
+}

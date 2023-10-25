@@ -1,0 +1,146 @@
+{
+  "userx": [
+    {
+      "name": "ruta",
+      "phone": "6656",
+      "id": 2
+    },
+    {
+      "name": "rytya",
+      "phone": "656",
+      "id": 5
+    },
+    {
+      "name": "rutauwuqe",
+      "phone": "665qwe6",
+      "id": 6
+    }
+  ],
+
+  "slider" : [
+   {
+    "image" : "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-19102023-JIT-2-Z13-Misschase-Differenceofopinion-Flat50.jpg",
+    "id" : 1
+   },
+   {
+    "image" : "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-19102023-JIT-3-Z13-Yovish-Kimayra-Min55.jpg",
+    "id" :  2
+   },
+   {
+    "image": "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-19102023-JIT-4-Z13-Action-Campus-Under999.jpg",
+    "id"  : 3
+   }
+  ],
+
+  "products" : [
+    {
+      "name" : "men's wear",
+      "id" : 1,
+      "image" :  "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-22092023-BigTicketBrands-Snitch-Min60.jpg"
+    },
+    {
+      "name" : "women's wear",
+      "id" : 2,
+      "image" :  "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-22092023-BigTicketBrands-Rangita_Min50.jpg"
+    },
+    {
+      "name" : "gap",
+      "id" : 3,
+      "image" :  "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-22092023-BigTicketBrands-GAP-Upto50.jpg"
+    },
+    {
+      "name" : "super dry",
+      "id" : 4,
+      "image" :  "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-UHP-22092023-BigTicketBrands-DNMX-Superdry-upto50%20(1).jpg"
+    }
+  ],
+  
+  "catagory" : [
+    {
+      "catagory_name" : "t-shirt"
+    },
+    {
+      "catagory_name" : "shirt"
+    },
+    {
+      "catagory_name" : "trouser and pants"
+    },
+    {
+      "catagory_name" : "dresses"
+    }
+  ],
+  "record" : [
+    {
+      "id" : 1,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230612/TR8h/64874196d55b7d0c6363a0c3/marks_%26_spencer_white_%26_blue_checkerboard_print_pure_cotton_t-shirt.jpg",
+      "price" : "690Rs",
+      "catagory" : "t-shirt" ,
+      "name":"t-shirt",
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 2,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230324/t3MI/641d8d9e907deb497aaef018/marks_%26_spencer_teal_green_thor_print_pure_cotton_t-shirt.jpg",
+      "price" : "525Rs",
+      "catagory" : "shirt" ,
+      "name":"shirt",
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 3,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20221003/Y6Ad/633ac3d0f997ddfdbd02f7a9/-473Wx593H-465093783-multi-MODEL.jpg",
+      "price" : "750Rs",
+      "catagory" : "trouser and pants" ,
+      "name":"trouser & pants" ,
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 4,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230612/AiO7/648736f8d55b7d0c636341d8/marks_%26_spencer_black_space_print_pure_cotton_t-shirt.jpg",
+      "price" : "125Rs",
+      "catagory" : "dresses" ,
+      "name":"dresses" ,
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 5,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230612/ZTOe/64873673d55b7d0c6363315a/marks_%26_spencer_grey_music_is_life_slogan_pure_cotton_t-shirt.jpg",
+      "price" : "320Rs",
+      "catagory" : "t-shirt" ,
+      "name":"t-shirt", 
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 6,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230512/5334/645d492442f9e729d77af798/marks_%26_spencer_pink_modal_rich_v-neck_long-sleeve_longline_top.jpg",
+      "price" : "650Rs",
+      "catagory" : "shirt" ,
+      "name":"shirt",
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 7,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230613/shh1/648885fbd55b7d0c63677fc2/-473Wx593H-469484488-bluemix-MODEL.jpg",
+      "price" : "1100Rs",
+      "catagory" : "trouser and pants" ,
+      "name":"trouser & pants",
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    },
+    {
+      "id" : 8,
+      "image" : "https://assets.ajio.com/medias/sys_master/root/20230613/lyqo/648881c0d55b7d0c63676a0d/-473Wx593H-469503844-lime-MODEL2.jpg",
+      "price" : "450Rs",
+      "catagory" : "dresses" ,
+      "name":"dresses",
+      "title" : "Checker board print pure cotton",
+      "quantity" : 1
+    }
+  ]
+}
